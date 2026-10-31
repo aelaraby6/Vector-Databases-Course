@@ -1,4 +1,4 @@
-# Vector Databases Course: From Zero to ChromaDB
+# Vector Databases Course: From Zero to RAG
 
 A proposed 9-session course. Each session includes **theory slides** and a **hands-on PDF lab**.
 
