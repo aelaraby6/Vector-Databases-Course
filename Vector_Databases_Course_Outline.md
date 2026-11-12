@@ -76,10 +76,4 @@ A proposed 9-session course. Each session includes **theory slides** and a **han
 - Performance, scaling, security, and deployment
 - **Lab:** Evaluate and improve the RAG system from the previous session
 
----
 
-## Notes on the Structure
-
-- Parts 1 and 2 build the foundational understanding, so ChromaDB feels easy by the time you reach it.
-- You can merge Sessions 2 and 3 if your audience already has some background, or split Chroma across additional sessions if you want to go deeper.
-- Every lab uses Python and Google Colab, so students need no local setup.
